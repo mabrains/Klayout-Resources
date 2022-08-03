@@ -11,3 +11,5 @@ cd  Klayout-Resources/
 mv  klayoutrc ~/.klayout/klayoutrc
 ```
 
+#### Klayout shourtcuts
+![Klayout_shourtcuts](https://user-images.githubusercontent.com/91015308/182640717-4e9ddc43-8013-46dd-ba4a-7768a79f713f.png)
